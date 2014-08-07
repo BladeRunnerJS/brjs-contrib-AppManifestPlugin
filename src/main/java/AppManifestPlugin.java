@@ -32,7 +32,7 @@ public class AppManifestPlugin extends AbstractContentPlugin {
         ContentPathParserBuilder contentPathParserBuilder = new ContentPathParserBuilder();
         contentPathParserBuilder.accepts("manifest.webapp").as(APP_MANIFEST_REQUEST);
         contentPathParser = contentPathParserBuilder.build();
-        configFile = new File("C:\\Users\\robm\\AppManifestPlugin\\src\\test\\resources\\testApp\\manifest.json");
+        configFile = new File("C:\\Users\\robm\\AppManifestPlugin\\src\\test\\resources\\testApp\\manifest-config.txt");
     }
 
     @Override
