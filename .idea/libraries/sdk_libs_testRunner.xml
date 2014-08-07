@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="sdk-libs-testRunner">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/brjs-logger-binding-v0.11.0-gcd9b9a5.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/brjs-logger-v0.11.0-gcd9b9a5.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/JsTestDriver.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/sjsxp-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/stax-api-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/BladeRunnerJS/sdk/libs/java/testRunner/validation-api-1.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

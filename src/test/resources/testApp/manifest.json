@@ -1,0 +1,9 @@
+name: app
+description: My description
+launch_path: /index.html
+icons:
+    - 128: /img/icon-128.png
+developer:
+    - name: devName
+      url: www.homepage.org
+fullscreen: true
