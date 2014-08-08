@@ -4,7 +4,7 @@ import org.bladerunnerjs.testing.specutility.engine.SpecTest;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
+/*
  * Created by robm on 06/08/2014.
  */
 public class AppManifestPluginTest extends SpecTest {
