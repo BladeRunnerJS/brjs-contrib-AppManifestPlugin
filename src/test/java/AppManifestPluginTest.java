@@ -21,7 +21,7 @@ public class AppManifestPluginTest extends SpecTest {
     }
 
     @Test
-    public void basicTest() throws Exception {
+    public void doesPluginCreateManifestCorrectly() throws Exception {
         given(app).hasBeenCreated().and(aspect).hasBeenCreated();
         when(aspect).requestReceivedInDev("manifest.webapp", response);
         then(response).containsText("\"name\":\"app\"");
